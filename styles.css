@@ -58,7 +58,7 @@ a:hover {
 header {
   text-align: center;
   background: url('images/japan.jpg') no-repeat top center ;
-  background-size:relative;
+  background-size:cover;
   overflow: hidden;
   padding-top: 50px;
 }
@@ -90,14 +90,21 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 } 
-
 .my-story {
   background-color: #efefef;
   color: black;
   padding: 10px;
   border-radius: 55px;
   display: table;
-  margin: 100px auto;
+  margin: 160px auto;
+}
+.connect {
+  background-color: #efefef;
+  color: black;
+  padding: 10px;
+  border-radius: 55px;
+  display: table;
+  margin: 160px auto;
 }
 .location {
   background-color: #222;
