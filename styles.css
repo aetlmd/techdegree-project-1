@@ -83,8 +83,8 @@ header .profile-image:hover {
   border-radius: 5px;
   display: table;
   margin: 10px auto;
-  
 } 
+
 .my-story {
   background-color: #efefef;
   color: black;
@@ -110,7 +110,6 @@ header .profile-image:hover {
 .card:hover {
   border-color: #2602c5;
 }
-
 ul.skills {
   padding: 0;
   text-align: center;
@@ -175,6 +174,7 @@ a.social:hover {
 .clearfix {
   clear: both;
 }
+
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
