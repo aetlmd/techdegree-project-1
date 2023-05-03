@@ -187,7 +187,11 @@ a.social:hover {
 .clearfix {
   clear: both;
 }
-
+a.mailto{
+  background: white;
+  color: rgb(4, 2, 150) ;
+  font-style: italic;
+}
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
